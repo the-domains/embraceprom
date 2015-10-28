@@ -2,6 +2,7 @@ name: embraceprom
 favicon: null
 layout_spectrum: 0.9424014752730727
 typography_spectrum: 0.49429
+title: PROM
 cta:
   domain: null
   bucket: null
