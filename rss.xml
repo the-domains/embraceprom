@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[embraceprom]]></title>
+        <description><![CDATA[embraceprom]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 28 Oct 2015 20:56:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to P.R.O.M – The People's Republic of Movies</p>]]></description>
+            <link>undefinede3547459-6cc0-4b60-93af-78b0ed514b60/index.html</link>
+            <guid isPermaLink="false">e3547459-6cc0-4b60-93af-78b0ed514b60</guid>
+            <pubDate>Wed, 28 Oct 2015 20:56:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
